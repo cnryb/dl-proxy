@@ -1,0 +1,23 @@
+{
+  "name": "dl-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnryb/dl-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnryb/dl-proxy/issues"
+  },
+  "homepage": "https://github.com/cnryb/dl-proxy#readme",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
